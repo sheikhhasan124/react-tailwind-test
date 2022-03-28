@@ -1,11 +1,11 @@
 import React from 'react';
-import Navber from '../navbar/Navber';
+import Navber from '../../navbar/Navber';
 
 const Header = () => {
     return (
         <div>
-            <h2 className='text-4xl'>header</h2>
             <Navber ></Navber>
+            <h1 className='text-6xl'>welcome to my pricing shop</h1>
         </div>
     );
 };

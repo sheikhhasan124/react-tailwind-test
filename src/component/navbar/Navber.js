@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import Link from '../component/header/link/Link';
+import Link from '../link/Link';
 import { MenuIcon, XIcon } from '@heroicons/react/solid'
 
 const Navber = () => {
